@@ -87,7 +87,6 @@
                 <a href="/contato" class="navegacao nav-item nav-link">Contato</a>
                 <a href="/feedback" class=" navegacao nav-item nav-link">Feedback</a>
             </div>
-            <a href="/admin" class="btn btn-primary py-2 px-4 ms-3">Área Administrativa</a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -106,7 +105,7 @@
                         <a class="text-light mb-2" href="/sobre"><i class="bi bi-arrow-right text-primary me-2"></i>Sobre Nós</a>
                         <a class="text-light mb-2" href="/servicos"><i class="bi bi-arrow-right text-primary me-2"></i>Serviços</a>
                         <a class="text-light mb-2" href="/contato"><i class="bi bi-arrow-right text-primary me-2"></i>Contato</a>
-                        <a class="text-light mb-2" href="/admin"><i class="bi bi-arrow-right text-primary me-2"></i>Área Administrativa</a>
+                        <a class="text-light mb-2" href="/feedback"><i class="bi bi-arrow-right text-primary me-2"></i>Feedback</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -115,7 +114,8 @@
                     <a class="text-light mb-2" href="/"><i class="bi bi-arrow-right text-primary me-2"></i>Início</a>
                         <a class="text-light mb-2" href="/sobre"><i class="bi bi-arrow-right text-primary me-2"></i>Sobre Nós</a>
                         <a class="text-light mb-2" href="/servicos"><i class="bi bi-arrow-right text-primary me-2"></i>Serviços</a>
-                        <a class="text-light" href="/contato"><i class="bi bi-arrow-right text-primary me-2"></i>Contato</a>
+                        <a class="text-light mb-2" href="/contato"><i class="bi bi-arrow-right text-primary me-2"></i>Contato</a>
+                        <a class="text-light mb-2" href="/feedback"><i class="bi bi-arrow-right text-primary me-2"></i>Feedback</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
