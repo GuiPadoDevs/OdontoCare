@@ -22,8 +22,8 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">Por um sorriso mais bonito e saudável</h5>
                             <h2 class="display-1 text-white mb-md-4 animated zoomIn">Os Melhores Profissionais a Sua Disposição</h2>
-                            <a href="appointment.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Agende sua Consulta</a>
-                            <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contato</a>
+                            <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Agende sua Consulta</a>
+                            <a href="/contato" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contato</a>
                         </div>
                     </div>
                 </div>
